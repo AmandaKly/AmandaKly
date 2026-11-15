@@ -25,4 +25,6 @@ Sou formada em Tecnologia em Sistemas para Internet pelo IFRN e desenvolvo aplic
 
 ---
 
-<h3 align="center"><b>Projetos em destaque abaixo </b></h3>
+<h3 align="center"><b>Projetos em destaque abaixo</b></h3>
+
+<h6> 🌐 Sistemas em produção: (https://elasvidaleve.com.br/) | Sistema de gerenciamento de pedidos desenvolvido para a empresa Elas Vida Leve</h6>
